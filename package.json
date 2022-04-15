@@ -1,0 +1,20 @@
+{
+  "name": "babel-setup-recap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve" : "lite-server --baseDir public",
+    "build" : "babel src --out-dir public -w",
+    "start" : "npm run serve & npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-react": "^7.16.7",
+    "lite-server": "^2.6.1"
+  }
+}
