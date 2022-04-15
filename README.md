@@ -34,3 +34,9 @@ npm install @babel/cli @babel/core @babel/preset-react
 2. add your preset react to this file
 ```
 
+### run website
+```
+npm run serve (to run lite-server)
+npm run build (to compiling jsx component / element)
+npm run start (to run server and run build)
+```
