@@ -27,10 +27,10 @@ npm init // to inititate npm project
 npm install lite-server (optional)
 npm install @babel/cli @babel/core @babel/preset-react
 ```
-## Add React CDN
-	For this you can go React DOCS and go CDN pages
+### Add React CDN
+For this you can go React DOCS and go CDN pages
 
-## Babelrc preset setting
+### Babelrc preset setting
 ```
 1. Make file In the outer folder location name it .babelrc
 2. add your preset react to this file
