@@ -33,7 +33,7 @@ For this you can go React DOCS and go CDN pages
 ### Babelrc preset setting
 ```
 1. Make file In the outer folder location name it .babelrc
-2. add your preset react to this file
+2. add your babel preset react to this file
 ```
 
 ### Run website 
